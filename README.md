@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @sznamensky
-- 👀 I’m interested in development of my own project Talking Scanner and sharing results with Community. I am also interested to receive some feedback and ideas from Community.
-- 💞️ I’m looking to collaborate around my project Talking Scanner
-- 📫 How to reach me talking.scanner@unicit.ru
-
-<!---
-sznamensky/sznamensky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The Talking Scanner appliance, version 1.0.0
+The Talking Scanner appliance is a hardware and software complex designed to scan paper books pages and to pronounce text of scanned pages using synthesized computer speech.
+The Talking Scanner appliance is designed, prototyped  and being developed by Sergey Znamenskiy.
+Those who are interested  please communicate with the project owner by email talking.scanner@unicit.ru
